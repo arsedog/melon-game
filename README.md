@@ -1,3 +1,3 @@
-# game
+# Melon game
 
-A new Flutter project.
+Game made in a few hours with Flame and Forge2D as a challenge assignment for Dutch Game Studio
